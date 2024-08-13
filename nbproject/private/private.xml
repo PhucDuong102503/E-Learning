@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/AdminManagementController/GetAllAccountMentorByExcel.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/js2/dashboard/dashboard-3.js</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/AdminManagementController/DisplayAccountRateDashboard.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/Dal/DashboardDAO.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/dashboard1.jsp</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/AdminManagementController/DashboardController.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/AdminManagementController/DisplayIncomeDashboard.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/js2/dashboard/dashboard-2.js</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/js2/dashboard/dashboard.js</file>
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/CourseManagementController/CourseContentManagementController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>90</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/E-Learning_System/src/java/Dal/CourseDAO.java</file>
+            <file>file:/C:/E-Learning_System/web/css2/style.css</file>
+            <file>file:/C:/E-Learning_System/src/java/CourseManagementController/CourseContentManagementController.java</file>
+            <file>file:/C:/E-Learning_System/web/course.jsp</file>
+            <file>file:/C:/E-Learning_System/src/java/CourseManagementController/CourseController.java</file>
+            <file>file:/C:/E-Learning_System/web/course_content_management.jsp</file>
+>>>>>>> origin/crudlesson,sublesson
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+<<<<<<< HEAD
+        <group>
+            <file>file:/D:/E-Learning_System/web/create-quiz.jsp</file>
+            <file>file:/D:/E-Learning_System/src/java/UserManagementController/Google/OTP_Email.java</file>
+            <file>file:/D:/E-Learning_System/src/java/CourseManagementController/QuizzesController.java</file>
+            <file>file:/D:/E-Learning_System/src/java/Model/LessonDBO.java</file>
+            <file>file:/D:/E-Learning_System/src/java/UserManagementController/Google/Constants.java</file>
+            <file>file:/D:/E-Learning_System/web/edit-quiz.jsp</file>
+            <file>file:/D:/E-Learning_System/src/java/Model/QuestionTypeDBO.java</file>
+            <file>file:/D:/E-Learning_System/src/java/Model/QuizDBO.java</file>
+            <file>file:/D:/E-Learning_System/src/java/UserManagementController/Google/GoogleLogin.java</file>
+>>>>>>> origin/crud_quiz
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/AdminManagementController/GetAllAccountManagerByExcel.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/all-accounts-excel.jsp</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/Model/AccountManagerExcelDBO.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/add-manager-accounts.jsp</file>
+>>>>>>> origin/AdminManager
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/SWP/E-Learning_System/src/java/Dal/UserDAO.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/CourseDetailController.java</file>
+            <file>file:/E:/SWP/E-Learning_System/web/header.jsp</file>
+            <file>file:/E:/SWP/E-Learning_System/web/manage-courses.jsp</file>
+            <file>file:/E:/SWP/E-Learning_System/web/index.jsp</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/CourseController.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/EmailSender.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/Dal/CourseDAO.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/WishlistAddServlet.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/Studnet_in_Course.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/UpdateTeacherServlet1.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/CreateCourseServlet.java</file>
+            <file>file:/E:/SWP/E-Learning_System/web/student-in-course.jsp</file>
+            <file>file:/E:/SWP/E-Learning_System/web/chooseTeacher1.jsp</file>
+            <file>file:/E:/SWP/E-Learning_System/web/wish-list.jsp</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/WishlistServlet.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/ManagerControl.java</file>
+            <file>file:/E:/SWP/E-Learning_System/src/java/CourseManagementController/DeleteCourseServlet.java</file>
+>>>>>>> origin/create-course1
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Downloads/E-Learning_System/src/java/Model/CourseDBO.java</file>
+            <file>file:/C:/Users/admin/Downloads/E-Learning_System/src/java/Dal/CourseDAO.java</file>
+            <file>file:/C:/Users/admin/Downloads/E-Learning_System/web/my-learning.jsp</file>
+            <file>file:/C:/Users/admin/Downloads/E-Learning_System/src/java/Model/UserCourseProgressDBO.java</file>
+>>>>>>> origin/front-end
+=======
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/AdminManagementController/GetAllAccountManagerByExcel.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/all-accounts.jsp</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/accounts.jsp</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/all-accounts-excel.jsp</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/src/java/ControllerPayWithCourse/Payment.java</file>
+            <file>file:/D:/WP%20MASTER/E-Learning_System/web/add-manager-accounts.jsp</file>
+>>>>>>> origin/payment
+        </group>
+=======
+        <group/>
+>>>>>>> origin/crud_quiz
+    </open-files>
+</project-private>
